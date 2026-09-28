@@ -1,0 +1,9 @@
+{
+  "name": "genpark-quantum-grover-search-oracle-amplifier-skill",
+  "version": "1.0.0",
+  "description": "Grover's quantum search amplitude amplification engine demonstrating quadratic speedup for unstructured database queries via phase inversion oracles.",
+  "category": "Service",
+  "entrypoint": "client.py",
+  "mcp": "mcp_server.py",
+  "author": "GenPark AI"
+}
